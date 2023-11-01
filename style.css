@@ -1,0 +1,33 @@
+body {
+  font-family: Verdana, Helvetica, sans-serif;
+  background-color:rgb(139, 133, 131);
+}
+
+body.index {
+  text-align: center;
+  background-color:lightsalmon;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn, a:visited {
+  background: khaki;
+  color: rgb(243, 88, 88);
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.btn.home {
+  background: darkslategray;
+} 
+
+#btn_wrapper {
+  text-align: center;
+}
+
+img.food {
+  height: 300px;
+  width: auto;
+}
