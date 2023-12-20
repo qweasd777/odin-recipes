@@ -9,5 +9,5 @@ This is my first-ever website I've created following The Odin Project's (TOP) Fo
 Although not very appealing to look at, it was fun and fulfilling to apply what I've learnt so far on HTML (and CSS) and finally get something out.
 
 ## Links
-* Try Odin Recipes [here](qweasd777.github.io/odin-recipes)!
+* Try Odin Recipes [here](https://qweasd777.github.io/odin-recipes)!
 * Checkout the assignment [here](https://www.theodinproject.com/lessons/foundations-recipes)!
